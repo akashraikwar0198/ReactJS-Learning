@@ -13,7 +13,7 @@
 //    render(){
 //        return (
 //                  <div>  
- //                 <h1> This is React App </h1>
+//                 <h1> This is React App </h1>
 //                  <p> This is a paragraph. </p>
 //                  </div>
 //                )
